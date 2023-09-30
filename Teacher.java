@@ -1,3 +1,4 @@
+package StudentInfo;
 public class Teacher {
     String name;
     String mpno;

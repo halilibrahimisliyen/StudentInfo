@@ -1,4 +1,4 @@
-
+package StudentInfo;
 
 public class StudentInfo{
 
